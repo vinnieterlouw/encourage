@@ -1,0 +1,1 @@
+console.log(`It's amazing to learn how to code!`)
